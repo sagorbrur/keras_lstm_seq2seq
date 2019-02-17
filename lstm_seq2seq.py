@@ -228,3 +228,14 @@ for seq_index in range(100):
     print('-')
     print('Input sentence:', input_texts[seq_index])
     print('Decoded sentence:', decoded_sentence)
+
+# For testing a custom single line
+"""
+input_sentence = "How are you?"
+test_sentence_tokenized = np.zeros(
+  (1, max_encoder_seq_length, num_encoder_tokens), dtype='float32')
+for t, char in enumerate(input_sentence):
+  test_sentence_tokenized[0, t, input_token_index[char]] = 1.
+print(input_sentence)
+print(decode_sequence(test_sentence_tokenized))
+"""
