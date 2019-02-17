@@ -1,0 +1,523 @@
+Go.	যান।
+Hi.	হাই।
+Run!	চালান!
+Run!	চালান!
+Wow!	কি দারুন!
+Fire!	ফায়ার!
+Help!	সাহায্য করুন!
+Jump.	ঝাঁপ দাও।
+Stop!	বন্ধ করুন!
+Stop!	বন্ধ করুন!
+Stop!	বন্ধ করুন!
+Wait!	অপেক্ষা কর
+Wait!	অপেক্ষা কর
+Go on.	যান।
+Go on.	যান।
+Go on.	যান।
+Hello!	হ্যালো!
+Hello!	হ্যালো!
+I see.	আমি দেখি.
+I try.	আমি চেষ্টা করি.
+I won!	আমি জিতেছি!
+I won!	আমি জিতেছি!
+Oh no!	ওহ না!
+Attack!	হামলা!
+Attack!	হামলা!
+Cheers!	চিয়ার্স!
+Cheers!	চিয়ার্স!
+Cheers!	চিয়ার্স!
+Cheers!	চিয়ার্স!
+Get up.	উঠে পড়.
+Go now.	এখন যাও.
+Go now.	এখন যাও.
+Go now.	এখন যাও.
+Got it!	বুঝেছি!
+Got it!	বুঝেছি!
+Got it?	বুঝেছি?
+Got it?	বুঝেছি?
+Got it?	বুঝেছি?
+Hop in.	হপ ইন।
+Hop in.	হপ ইন।
+Hug me.	আমাকে জড়িয়ে ধর.
+Hug me.	আমাকে জড়িয়ে ধর.
+I fell.	আমি পড়েছিলাম।
+I fell.	আমি পড়েছিলাম।
+I know.	আমি জানি.
+I left.	আমি প্রস্থান করেছি.
+I left.	আমি প্রস্থান করেছি.
+I lost.	আমি হেরে গেছি.
+I'm 19.	আমি 19 বছর।
+I'm OK.	আমি ঠিক আছি.
+I'm OK.	আমি ঠিক আছি.
+Listen.	শুনুন।
+No way!	কোনভাবেই না!
+No way!	কোনভাবেই না!
+No way!	কোনভাবেই না!
+No way!	কোনভাবেই না!
+No way!	কোনভাবেই না!
+No way!	কোনভাবেই না!
+No way!	কোনভাবেই না!
+No way!	কোনভাবেই না!
+No way!	কোনভাবেই না!
+Really?	সত্যি?
+Really?	সত্যি?
+Really?	সত্যি?
+Thanks.	ধন্যবাদ।
+We try.	আমরা চেষ্টাকরি.
+We won.	আমরা জিতেছি.
+We won.	আমরা জিতেছি.
+We won.	আমরা জিতেছি.
+We won.	আমরা জিতেছি.
+Ask Tom.	টম জিজ্ঞাসা করুন।
+Awesome!	অসাধারণ!
+Be calm.	শান্ত হও.
+Be calm.	শান্ত হও.
+Be calm.	শান্ত হও.
+Be cool.	শান্ত হও.
+Be fair.	পরিষ্কার করা.
+Be fair.	পরিষ্কার করা.
+Be fair.	পরিষ্কার করা.
+Be fair.	পরিষ্কার করা.
+Be fair.	পরিষ্কার করা.
+Be fair.	পরিষ্কার করা.
+Be kind.	দয়াশীল হত্তয়া.
+Be nice.	সুন্দর হতে।
+Be nice.	সুন্দর হতে।
+Be nice.	সুন্দর হতে।
+Be nice.	সুন্দর হতে।
+Be nice.	সুন্দর হতে।
+Be nice.	সুন্দর হতে।
+Beat it.	এটা বীট।
+Call me.	আমাকে ডাকো.
+Call me.	আমাকে ডাকো.
+Call us.	আমাদের কল করুন।
+Call us.	আমাদের কল করুন।
+Come in.	ভিতরে আসো.
+Come in.	ভিতরে আসো.
+Come in.	ভিতরে আসো.
+Come in.	ভিতরে আসো.
+Come on!	চলে আসো!
+Come on.	চলে আসো.
+Come on.	চলে আসো.
+Come on.	চলে আসো.
+Drop it!	ফেলে দাও!
+Drop it!	ফেলে দাও!
+Drop it!	ফেলে দাও!
+Drop it!	ফেলে দাও!
+Get out!	বের হও!
+Get out!	বের হও!
+Get out!	বের হও!
+Get out.	বের হও.
+Get out.	বের হও.
+Go away!	চলে যাও!
+Go away!	চলে যাও!
+Go away.	চলে যাও.
+Go away.	চলে যাও.
+Go away.	চলে যাও.
+Go away.	চলে যাও.
+Go away.	চলে যাও.
+Go away.	চলে যাও.
+Go away.	চলে যাও.
+Go away.	চলে যাও.
+Go home.	বাড়িতে যেতে.
+Go home.	বাড়িতে যেতে.
+Go home.	বাড়িতে যেতে.
+Go home.	বাড়িতে যেতে.
+Go slow.	ধীরে যাও.
+Go slow.	ধীরে যাও.
+Goodbye!	গুডবাই!
+Hang on!	লেগে থাকা!
+Hang on!	লেগে থাকা!
+Hang on.	লেগে থাকা.
+Hang on.	লেগে থাকা.
+He quit.	তিনি প্রস্থান করার জন্য.
+He quit.	তিনি প্রস্থান করার জন্য.
+He runs.	সে চলছে.
+Help me!	আমাকে সাহায্য কর!
+Help me.	আমাকে সাহায্য কর.
+Help me.	আমাকে সাহায্য কর.
+Help us.	আমাদেরকে সাহায্য করুন.
+Help us.	আমাদেরকে সাহায্য করুন.
+Hold it!	এটা ধরো!
+Hold on.	অপেক্ষা কর.
+Hug Tom.	আলিঙ্গন টম।
+I agree.	আমি রাজী.
+I drive.	আমি চালাই.
+I tried.	আমি চেষ্টা করেছিলাম.
+I tried.	আমি চেষ্টা করেছিলাম.
+I tried.	আমি চেষ্টা করেছিলাম.
+I'll go.	আমি যাব.
+I'm Tom.	আমি টম।
+I'm fat.	আমি মোটা.
+I'm fat.	আমি মোটা.
+I'm fit.	আমি উপযুক্ত
+I'm hit!	আমি আঘাত করছি!
+I'm hit!	আমি আঘাত করছি!
+I'm ill.	আমি অসুস্থ.
+I'm sad.	আমি দুঃখিত
+I'm shy.	আমি লজ্জিত.
+I'm wet.	আমি ভেজা.
+I'm wet.	আমি ভেজা.
+It's me!	এটা আমি!
+Join us.	আমাদের সাথে যোগদান করুন.
+Join us.	আমাদের সাথে যোগদান করুন.
+Keep it.	এটা রাখ.
+Keep it.	এটা রাখ.
+Kiss me.	আমাকে চুমু দাও.
+Kiss me.	আমাকে চুমু দাও.
+Me, too.	আমিও.
+Open up.	খোল.
+Open up.	খোল.
+Perfect!	পারফেক্ট!
+See you.	দেখা হবে.
+Show me.	আমাকে দেখাও.
+Show me.	আমাকে দেখাও.
+Shut up!	চুপ কর!
+Shut up!	চুপ কর!
+Shut up!	চুপ কর!
+Shut up!	চুপ কর!
+Shut up!	চুপ কর!
+So long.	এত দীর্ঘ।
+Take it.	এটি গ্রহণ করা.
+Take it.	এটি গ্রহণ করা.
+Tell me.	আমাকে বলুন.
+Tell me.	আমাকে বলুন.
+Tom won.	টম জিতেছে।
+Wake up!	জাগো!
+Wake up!	জাগো!
+Wake up!	জাগো!
+Wake up.	জাগো.
+Wake up.	জাগো.
+Wash up.	ধোয়া।
+Wash up.	ধোয়া।
+We know.	আমরা জানি.
+We lost.	আমরা হেরেছি.
+We lost.	আমরা হেরেছি.
+We lost.	আমরা হেরেছি.
+We lost.	আমরা হেরেছি.
+We lost.	আমরা হেরেছি.
+We lost.	আমরা হেরেছি.
+We lost.	আমরা হেরেছি.
+We lost.	আমরা হেরেছি.
+We lost.	আমরা হেরেছি.
+We lost.	আমরা হেরেছি.
+Welcome.	স্বাগত.
+Who won?	কে জিতেছে?
+Who won?	কে জিতেছে?
+You run.	আপনি চালান।
+Am I fat?	আমি কি মোটা?
+Am I fat?	আমি কি মোটা?
+Ask them.	তাদেরকে জিজ্ঞেস করো.
+Ask them.	তাদেরকে জিজ্ঞেস করো.
+Back off!	ফিরে যাও!
+Back off!	ফিরে যাও!
+Back off.	ফিরে বন্ধ।
+Back off.	ফিরে বন্ধ।
+Back off.	ফিরে বন্ধ।
+Back off.	ফিরে বন্ধ।
+Be a man.	মানুষ হও.
+Be a man.	মানুষ হও.
+Be still.	স্থির থাক.
+Be still.	স্থির থাক.
+Be still.	স্থির থাক.
+Beats me.	আমাকে মারধর করে।
+Beats me.	আমাকে মারধর করে।
+Call Tom.	টম কল করুন।
+Call Tom.	টম কল করুন।
+Cheer up!	উৎসাহিত করা!
+Cool off!	শান্ত হও!
+Cuff him.	তাকে কফ।
+Drive on.	চালাও.
+Drive on.	চালাও.
+Drive on.	চালাও.
+Drive on.	চালাও.
+Find Tom.	টম খুঁজুন।
+Find Tom.	টম খুঁজুন।
+Fix this.	এটা ঠিক কর.
+Fix this.	এটা ঠিক কর.
+Get down!	নীচে নামা!
+Get down.	নীচে নামা.
+Get down.	নীচে নামা.
+Get down.	নীচে নামা.
+Get down.	নীচে নামা.
+Get lost!	হারিয়ে যান!
+Get lost!	হারিয়ে যান!
+Get lost!	হারিয়ে যান!
+Get real!	বাস্তব পান!
+Go ahead.	এগিয়ে যান.
+Go ahead.	এগিয়ে যান.
+Go ahead.	এগিয়ে যান.
+Go ahead.	এগিয়ে যান.
+Good job!	সাবাশ!
+Good job!	সাবাশ!
+Good job!	সাবাশ!
+Grab him.	তাকে ধর.
+Grab him.	তাকে ধর.
+Have fun.	আনন্দ কর.
+Have fun.	আনন্দ কর.
+He tries.	সে চেষ্টা করে.
+He's wet.	সে ভিজা।
+Help Tom.	সাহায্য টম।
+Help Tom.	সাহায্য টম।
+Hi, guys.	হাই, ছেলেরা।
+How cute!	কি সুন্দর!
+How deep?	কত গভীর?
+How nice!	কী সুন্দর!
+How nice!	কী সুন্দর!
+How nice!	কী সুন্দর!
+How nice!	কী সুন্দর!
+Humor me.	আমার হাস্যকর।
+Hurry up.	তারাতারি কর.
+Hurry up.	তারাতারি কর.
+Hurry up.	তারাতারি কর.
+Hurry up.	তারাতারি কর.
+I am fat.	আমি মোটা.
+I did OK.	আমি ঠিক আছে।
+I did OK.	আমি ঠিক আছে।
+I did it.	আমি এটা করেছি।
+I did it.	আমি এটা করেছি।
+I failed.	আমি ব্যর্থ হলাম.
+I forgot.	আমি ভুলে গেছি.
+I get it.	আমি এটা পাই.
+I got it.	আমি বুঝতে পেরেছি.
+I got it.	আমি বুঝতে পেরেছি.
+I phoned.	আমি ফোন করেছি।
+I phoned.	আমি ফোন করেছি।
+I refuse.	আমি অস্বীকার করি.
+I refuse.	আমি অস্বীকার করি.
+I saw it.	আমি এটা দেখেছি.
+I saw it.	আমি এটা দেখেছি.
+I stayed.	আমি থাকলাম।
+I stayed.	আমি থাকলাম।
+I use it.	আমি এটি ব্যবহার করি.
+I use it.	আমি এটি ব্যবহার করি.
+I use it.	আমি এটি ব্যবহার করি.
+I'll pay.	আমি পরিশোধ করবো.
+I'll try.	আমি চেষ্টা করবো.
+I'll try.	আমি চেষ্টা করবো.
+I'm back.	আমি ফিরে এসেছি.
+I'm back.	আমি ফিরে এসেছি.
+I'm bald.	আমি ঠাণ্ডা
+I'm busy.	আমি ব্যস্ত.
+I'm busy.	আমি ব্যস্ত.
+I'm calm.	আমি শান্ত.
+I'm cold.	আমি ঠান্ডা।
+I'm deaf.	আমি বধির.
+I'm deaf.	আমি বধির.
+I'm done.	আমি সম্পন্ন করেছি।
+I'm fast.	আমি দ্রুত.
+I'm fine.	আমি ভালো আছি.
+I'm fine.	আমি ভালো আছি.
+I'm fine.	আমি ভালো আছি.
+I'm free!	আমি মুক্ত!
+I'm free.	আমি মুক্ত.
+I'm free.	আমি মুক্ত.
+I'm full.	আমি পরিপূর্ণ.
+I'm full.	আমি পরিপূর্ণ.
+I'm glad.	আমি আনন্দিত.
+I'm home.	আমি বাড়িতে আছি।
+I'm late.	অামি দেরি করে ফেলেছি.
+I'm lazy.	আমি অলস.
+I'm lazy.	আমি অলস.
+I'm lazy.	আমি অলস.
+I'm lazy.	আমি অলস.
+I'm okay.	আমি ঠিক আছি.
+I'm okay.	আমি ঠিক আছি.
+I'm rich.	আমি ধনী.
+I'm safe.	আমি নিরাপদ.
+I'm sick.	আমি অসুস্থ।
+I'm sure.	আমি নিশ্চিত.
+I'm sure.	আমি নিশ্চিত.
+I'm sure.	আমি নিশ্চিত.
+I'm sure.	আমি নিশ্চিত.
+I'm tall.	আমি লম্বা.
+I'm thin.	আমি রোগা.
+I'm tidy.	আমি শুদ্ধ।
+I'm tidy.	আমি শুদ্ধ।
+I'm ugly.	আমি কুৎসিত.
+I'm ugly.	আমি কুৎসিত.
+I'm weak.	আমি দুর্বল.
+I'm well.	আমি ভালো.
+I'm well.	আমি ভালো.
+I've won.	আমি জিতেছি.
+I've won.	আমি জিতেছি.
+It helps.	এটা সাহায্য করে.
+It hurts.	এটা ব্যাথা করে।
+It works.	এটা কাজ করে।
+It works.	এটা কাজ করে।
+It's Tom.	এটা টম এর।
+It's fun.	এটা একটা মজা.
+It's fun.	এটা একটা মজা.
+It's his.	এটা তার.
+It's his.	এটা তার.
+It's new.	এটা নতুন.
+It's new.	এটা নতুন.
+It's odd.	এটা বিশ্রী.
+It's red.	এটি লাল.
+It's sad.	এটা দুঃখজনক.
+Keep out!	বাইরে রাখো!
+Keep out.	আউট রাখুন।
+Kiss Tom.	টম কিস।
+Leave it.	এটা ছেড়ে দাও.
+Leave it.	এটা ছেড়ে দাও.
+Leave me.	আমাকে ছেড়ে দাও।
+Leave us.	আমাদের ছেড়ে চলে.
+Leave us.	আমাদের ছেড়ে চলে.
+Let's go!	চলো যাই!
+Let's go.	চলো যাই.
+Look out!	সামলে!
+Look out!	সামলে!
+Marry me.	আমাকে বিবাহ করো
+Marry me.	আমাকে বিবাহ করো
+May I go?	আমি কি যেতে পারি?
+May I go?	আমি কি যেতে পারি?
+May I go?	আমি কি যেতে পারি?
+Save Tom.	টম সংরক্ষণ করুন।
+Save Tom.	টম সংরক্ষণ করুন।
+She came.	সে এসেছিল.
+She died.	সে মারা গেছে.
+She runs.	তিনি রান।
+Sit down!	বস!
+Sit down!	বস!
+Sit down.	বস.
+Sit here.	এখানে বস.
+Sit here.	এখানে বস.
+Speak up!	বলতে থাক!
+Speak up!	বলতে থাক!
+Stop Tom.	টম বন্ধ করুন।
+Stop Tom.	টম বন্ধ করুন।
+Taste it.	এর স্বাদ নাও.
+Taste it.	এর স্বাদ নাও.
+Taste it.	এর স্বাদ নাও.
+Taste it.	এর স্বাদ নাও.
+Tell Tom.	টমকে বলুন।
+Tell Tom.	টমকে বলুন।
+Terrific!	ভয়ঙ্কর!
+Terrific!	ভয়ঙ্কর!
+Terrific!	ভয়ঙ্কর!
+They won.	তারা জিতেছে.
+They won.	তারা জিতেছে.
+They won.	তারা জিতেছে.
+They won.	তারা জিতেছে.
+Tom came.	টম এসেছিল।
+Tom died.	টম মারা যান।
+Tom died.	টম মারা যান।
+Tom knew.	টম জানত।
+Tom left.	টম বাম।
+Tom left.	টম বাম।
+Tom lied.	টম মিথ্যা বলে।
+Tom lies.	টম মিথ্যা।
+Tom lost.	টম হারিয়ে গেছে।
+Tom paid.	টম দেওয়া।
+Too late.	খুব দেরী।
+Trust me.	আমাকে বিশ্বাস কর.
+Trust me.	আমাকে বিশ্বাস কর.
+Try hard.	কঠোর সাধনা কর.
+Try some.	যথোপযুক্ত সৃষ্টিকর্তা.
+Try some.	যথোপযুক্ত সৃষ্টিকর্তা.
+Try this.	এটা চেষ্টা কর.
+Try this.	এটা চেষ্টা কর.
+Use this.	এটা ব্যবহার কর.
+Use this.	এটা ব্যবহার কর.
+Use this.	এটা ব্যবহার কর.
+Use this.	এটা ব্যবহার কর.
+Warn Tom.	টম সতর্ক।
+Warn Tom.	টম সতর্ক।
+Watch me.	আমাকে দেখ.
+Watch me.	আমাকে দেখ.
+Watch us.	আমাদের দেখুন।
+Watch us.	আমাদের দেখুন।
+We agree.	আমরা রাজি.
+We'll go.	আমরা যাব.
+What for?	কিসের জন্য?
+What for?	কিসের জন্য?
+What fun!	কি মজা!
+What fun!	কি মজা!
+Who came?	কে এসেছিলো?
+Who died?	কে মারা গেছে?
+Who fell?	কে কে পড়েছিল?
+Who's he?	সে কে?
+Write me.	আমাকে লিখো.
+Write me.	আমাকে লিখো.
+You lost.	তুমি হেরে গেছ.
+You lost.	তুমি হেরে গেছ.
+After you.	তোমার পরে.
+Aim. Fire!	লক্ষ্য রাখি। ফায়ার!
+Am I late?	আমি কি দেরি করলাম?
+Answer me.	জবাব দিন.
+Be seated.	বসতে হবে।
+Be seated.	বসতে হবে।
+Birds fly.	পাখীরা উড়ে.
+Bless you.	তোমার মঙ্গল হোক.
+Call home!	বাড়ীতে ফোন!
+Calm down!	শান্ত হও!
+Calm down.	শান্ত হও.
+Can we go?	আমরা কি যেতে পারি?
+Can we go?	আমরা কি যেতে পারি?
+Can we go?	আমরা কি যেতে পারি?
+Catch Tom.	টম ধরা।
+Catch Tom.	টম ধরা।
+Catch him.	তাকে ধর.
+Come back.	ফিরে এসো.
+Come back.	ফিরে এসো.
+Come here.	এখানে আসো
+Come here.	এখানে আসো
+Come over!	জয়ী হত্তয়া!
+Come over!	জয়ী হত্তয়া!
+Come over.	জয়ী হত্তয়া.
+Come over.	জয়ী হত্তয়া.
+Come over.	জয়ী হত্তয়া.
+Come over.	জয়ী হত্তয়া.
+Come over.	জয়ী হত্তয়া.
+Come soon.	শীঘ্রই আস.
+Come soon.	শীঘ্রই আস.
+Cool down.	শান্ত হও.
+Did I win?	আমি কি জিতলাম?
+Did I win?	আমি কি জিতলাম?
+Did I win?	আমি কি জিতলাম?
+Do it now.	এখনি এটা কর.
+Dogs bark.	কুকুরের চিৎকার.
+Dogs bark.	কুকুরের চিৎকার.
+Don't ask.	জিজ্ঞাসা করবেন না।
+Don't cry.	কান্নাকাটি করবেন না।
+Don't die.	মরে না।
+Don't die.	মরে না।
+Don't lie.	মিথ্যা বলো না।
+Don't run.	চালাও না
+Don't run.	চালাও না
+Excuse me.	মাফ করবেন.
+Excuse me.	মাফ করবেন.
+Fantastic!	ফ্যান্টাস্টিক!
+Feel this.	এটা অনুভব কর.
+Feel this.	এটা অনুভব কর.
+Feel this.	এটা অনুভব কর.
+Feel this.	এটা অনুভব কর.
+Follow me.	আমাকে অনুসরণ কর.
+Follow us.	আমাদের অনুসরণ করো.
+Follow us.	আমাদের অনুসরণ করো.
+Forget it!	ভুলে যাও!
+Forget it!	ভুলে যাও!
+Forget it!	ভুলে যাও!
+Forget it!	ভুলে যাও!
+Forget it.	ভুলে যাও.
+Forget it.	ভুলে যাও.
+Forget it.	ভুলে যাও.
+Get a job.	একটি চাকরি পান।
+Get a job.	একটি চাকরি পান।
+Get a job.	একটি চাকরি পান।
+Get a job.	একটি চাকরি পান।
+Get ready.	প্রস্তুত হও.
+Get ready.	প্রস্তুত হও.
+Go get it.	যাও ওটা নাও.
+Go get it.	যাও ওটা নাও.
+Go inside.	ভিতরে যাও.
+Go to bed.	ঘুমাতে যাও.
+Go to bed.	ঘুমাতে যাও.
+Good luck.	শুভ কামনা।
+Good luck.	শুভ কামনা।
+Grab that.	যে ধরুন।
+Grab that.	যে ধরুন।
+Grab that.	যে ধরুন।
+Grab that.	যে ধরুন।
+Grab this.	এই ধরুন।
+Grab this.	এই ধরুন।
